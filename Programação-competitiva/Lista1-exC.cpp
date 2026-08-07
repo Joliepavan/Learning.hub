@@ -19,6 +19,5 @@ int main (){
   cout << p << "\n";
  }
 
-
     return 0;
 }
